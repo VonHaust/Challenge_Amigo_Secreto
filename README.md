@@ -46,6 +46,4 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 &nbsp;
 ## **👩🏻‍💻 Autores**
 
-<img src="https://avatars.githubusercontent.com/u/50738663?v=4" alt="Profile" width="125" height="125">
-
-![alt text](https://avatars.githubusercontent.com/u/50738663?v=4)<br><sub>Marcella Portela</sub>](https://github.com/VonHaust)
+[<img src="https://avatars.githubusercontent.com/u/50738663?v=4" width=115><br><sub>Marcella Portela</sub>](https://github.com/VonHaust)
