@@ -45,4 +45,7 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 &nbsp;
 ## **👩🏻‍💻 Autores**
+
+[![Logo](https://avatars.githubusercontent.com/u/50738663?v=4)](https://github.com/VonHaust)
+
 ![alt text]{https://avatars.githubusercontent.com/u/50738663?v=4)<br><sub>Marcella Portela</sub>](https://github.com/VonHaust)
